@@ -1,0 +1,8 @@
+linters:
+  csslint: {  }
+files:
+  ignore:
+    - 'bower_components/*'
+    - 'node_modules/*'
+- name: Lint Action
+  uses: samuelmeuli/lint-action@v1.5.3
