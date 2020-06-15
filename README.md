@@ -3,7 +3,7 @@ Part of Microverse curriculum. A clone of the old apple.com webpage
 
 ![screenshot](./img/screenshot.png)
 
-This project consists of building an HTML document that matches the appearance of NYT’s Article page.
+This project consists of building an apple.com clone website of their archived site.
 
 ## Built With
 
@@ -12,9 +12,7 @@ This project consists of building an HTML document that matches the appearance o
 
 ## Live Demo
 
-<!-- [Live Demo Link](https://rawcdn.githack.com/carlos-ssh/nyt-clone/6c275aded818639d17f1d895cff618d58ef035df/index.html)
- -->
-
+ [Live Demo Link](https://raw.githack.com/petersteph88/apple-clone/feature/index.html)
 
 ## Author
 
@@ -22,7 +20,7 @@ This project consists of building an HTML document that matches the appearance o
 
 - Github: [@Peter](https://github.com/petersteph88) 
 - Twitter: [@Peter](https://twitter.com/) 
-- Linkedin: [Peter](www.linkedin.com/in/)
+- Linkedin: [Peter](www.linkedin.com/in/peter-isiko-8040bb1a3/)
 
 ## 🤝 Contributing
 
