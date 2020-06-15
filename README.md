@@ -1,7 +1,7 @@
 # A clone of the old apple.com website
 Part of Microverse curriculum. A clone of the old apple.com webpage
 
-![screenshot](./img./screenshot.png)
+![screenshot](./img/screenshot.png)
 
 This project consists of building an HTML document that matches the appearance of NYT’s Article page.
 
