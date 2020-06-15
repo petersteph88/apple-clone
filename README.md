@@ -12,7 +12,7 @@ This project consists of building an apple.com clone website of their archived s
 
 ## Live Demo
 
- [Live Demo Link](https://raw.githack.com/petersteph88/apple-clone/feature/index.html)
+ [Live Demo Link](https://rawcdn.githack.com/petersteph88/apple-clone/4dbd6ab3b313788fe7f2b994e7a8acb96ee8d30b/index.html)
 
 ## Author
 
